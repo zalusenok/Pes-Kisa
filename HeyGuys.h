@@ -1,5 +1,5 @@
-#ifndef Source1_H
-#define Source1_H
+#ifndef HeyGuys_H
+#define HeyGuys_H
 
   char hochuChpsekov;
 
